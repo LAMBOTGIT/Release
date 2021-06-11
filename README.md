@@ -10,7 +10,7 @@ Your charcter MUST be positioned inside of "Meditation Realm" somewhere out of t
   
 Usage:  
 Place your chaacter in the meditation realm.  
-Set regional/world enchantment and preffered difficulty.  
+Set regional/world enchantment and preferred difficulty.  
 click Run Bot  
 Stop the bot hotkey is Shift+ESC or Shift+Space.  
 Terminate the bot hotkey is Ctrl+Shift+E  
